@@ -1,11 +1,11 @@
 {
-  "name": "chrome-extension-boilerplate-react",
-  "version": "5.0.4",
-  "description": "A chrome extension boilerplate built with React 18, Webpack 5, and Webpack Dev Server 4",
+  "name": "resumatch",
+  "version": "1.0.0",
+  "description": "ResuMatch — Free Offline Keyword Analyzer. Chrome extension for comparing résumés to job descriptions with TF-IDF analysis.",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lxieyang/chrome-extension-boilerplate-react.git"
+    "url": "https://github.com/amaria33/resumatch.git"
   },
   "scripts": {
     "build": "node utils/build.js",

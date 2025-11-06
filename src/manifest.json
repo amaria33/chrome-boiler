@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Chrome Extension with React & Webpack",
-  "description": "A chrome extension boilerplate built with React 17, Webpack 5, and Webpack Dev Server 4",
+  "name": "ResuMatch — Free Offline Keyword Analyzer",
+  "description": "Compare your résumé against job descriptions with TF-IDF keyword analysis. Find gaps, boost your match score—100% offline and private.",
   "options_page": "options.html",
   "background": { "service_worker": "background.bundle.js" },
   "action": {
